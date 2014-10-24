@@ -6,7 +6,7 @@
 # STRIPE_API_KEY: EdAvEPVEC3LuaTg5Q3z6WbDVqZlcBQ8Z
 # STRIPE_PUBLIC_KEY: pk_BRgD57O8fHja9HxduJUszhef6jCyS
 
-BASE_URL: 'http://dragonberry.cloudapp.net:3000'
+BASE_URL: 'http://glacial-anchorage-3478.herokuapp.com/'
 
 AWS_ACCESS_KEY_ID: 'AKIAIOQT7WY7LLH7CBBA'
 AWS_SECRET_ACCESS_KEY: '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'
