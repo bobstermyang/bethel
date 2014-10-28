@@ -8,8 +8,4 @@
 
 BASE_URL: 'http://baseurlhere.com/'
 
-AWS_ACCESS_KEY_ID: 'AKIAIOQT7WY7LLH7CBBA'
-AWS_SECRET_ACCESS_KEY: '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'
-AWS_BUCKET: 'bethel-shortener'
-
 
